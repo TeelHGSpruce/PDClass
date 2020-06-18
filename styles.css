@@ -48,7 +48,15 @@ nav il{
 #content{
     margin: 10px;
     border: solid 
-    
 }
 
+#counterBox{
+ width: 50%
+    
+}
+.counterBtn{
+     border-radius: 5px;
+     background-color: lightblue;
+     font-weight bold;
+}
 
