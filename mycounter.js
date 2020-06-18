@@ -1,4 +1,4 @@
-var currentCount = parseInt(documentById("countNumberDisplay").innerHTML, 10);
+var currentCount = parseInt(documentById("countNumDisplay").innerHTML, 10);
 
 documet.getElementID("up").addEvenetListerner(click, function(){
 document.getElementById("countNumDisplay").inmnerHTML = currentCount++;
